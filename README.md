@@ -10,7 +10,7 @@
 
 <br/>
 
-**SANTA LOGO**  
+***Our LOGO***  
 <img src = "https://user-images.githubusercontent.com/37427048/119304064-ac376480-bca1-11eb-8494-a191153fa3d0.png" width="300px" height = "150px">
 
 ## Member Introduction / 맴버 소개 ##
