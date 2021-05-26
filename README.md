@@ -26,7 +26,7 @@
 
 ## How to use Santa / 산타 사용법
 
-'산타'기 전에 사용법 필독!
+'산타'기 전에 사용법 필독!   
 [Notion] : <https://www.notion.so/SANTA-aec3960db5f4423fa2a6fd57e1394cda>
 
 ## Why Santa / ?
