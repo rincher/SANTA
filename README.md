@@ -31,7 +31,8 @@
 
 ## Why Santa / ?
 
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
+혼자가기 싫고 친구들은 바빠서 같이 등산갈 시간이 안되는 분들을 위한 등산 메이트 서비스
+새로운 인연과 건강 다 챙기세요!
 
 ## Requesting API / 산타에서 사용되는 API 목록
 SANTA 서비스에 필요한 API 목록들은 [여기](https://documenter.getpostman.com/view/13707169/TzRSfSNm)에서 확인이 가능합니다.
