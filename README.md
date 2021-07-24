@@ -15,7 +15,7 @@
 
 ## Member Introduction / 맴버 소개 ##
 * FrontEnd:
-> 이명섭: <https://github.com/MyongSeob>   
+> 이명섭: <https://github.com/MyoungSeob>   
 > 여지영: <https://github.com/Jennayeo>
 
 * BackEnd:
